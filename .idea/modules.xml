@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ProjPreparations.iml" filepath="$PROJECT_DIR$/.idea/ProjPreparations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/functionsLibrary.iml" filepath="$PROJECT_DIR$/.idea/functionsLibrary.iml" />
     </modules>
   </component>
 </project>
